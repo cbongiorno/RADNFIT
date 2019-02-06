@@ -1,2 +1,2 @@
-from svhc.main import Fit_Pattern
+from radnfit.main import Fit_Pattern
 
